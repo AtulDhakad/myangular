@@ -32,7 +32,7 @@
     "express": "^4.17.1",
     "jquery": "^3.4.1",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^5.7.1",
+    "mongoose": "^5.7.5",
     "ng-sidebar": "^9.1.1",
     "ngx-bootstrap": "^5.1.2",
     "ngx-materialize": "^6.1.3",
